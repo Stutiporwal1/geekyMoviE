@@ -1,4 +1,4 @@
-# geekyMoviE
+# MovieXplore
 
 
 programming language - python 
