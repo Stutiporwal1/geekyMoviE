@@ -8,5 +8,6 @@ The MovieXplore is a website built using Python. The whole frontend and backend 
 - Using Git
 Clone this repository or create a fork in your GitHub, and then clone that instead.
 
+## Programming language 
 
-programming language - python 
+- Python
