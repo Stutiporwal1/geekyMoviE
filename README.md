@@ -30,6 +30,25 @@ This project includes modules for data collection, preprocessing, model building
 
 ## 📂 Project Structure
 
+📦 movie-recommendation-system
+├─ analytics/ # Model evaluation & analysis
+├─ builder/ # Build recommendation pipelines
+├─ collector/ # Data collection scripts
+├─ evaluator/ # Model evaluation modules
+├─ moviegeeks/ # Application core
+├─ notebooks/ # Jupyter notebooks for testing & EDA
+├─ prs_project/ # Project resources
+├─ recommender/ # Recommendation engines
+├─ recs/ # Recommendation result generators
+├─ static/ # Static files
+├─ templates/ # Templates for UI (if any)
+├─ test/ # Unit tests
+├─ populate_*.py # Data population scripts
+├─ Dockerfile # Docker build file
+├─ docker-compose.yml # Multi-container configuration
+├─ requirements.txt # Python dependencies
+└─ manage.py # Entrypoint script
+
 ## Download source code
 
 - Using Git
