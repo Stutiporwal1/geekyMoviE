@@ -28,6 +28,8 @@ This project includes modules for data collection, preprocessing, model building
 
 
 
+## 📂 Project Structure
+
 ## Download source code
 
 - Using Git
