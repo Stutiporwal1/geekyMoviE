@@ -1,7 +1,8 @@
 # MovieXplore 
 ### Movie Recommendation System
+A comprehensive  built with Python that collects, processes, and evaluates movie rating data to generate personalized movie recommendations.  
+This project includes modules for data collection, preprocessing, model building, evaluation, and deployment support via Docker.
 
-The MovieXplore is a website built using Python. The whole frontend and backend is built using Python Programming Language.
 
 
 ## Download source code
