@@ -1,4 +1,5 @@
-# MovieXplore
+# MovieXplore 
+### Movie Recommendation System
 
 The MovieXplore is a website built using Python. The whole frontend and backend is built using Python Programming Language.
 
